@@ -1,0 +1,5 @@
+def findMedian(arr, n)
+{
+    sort(arr);  // Sort the array
+    return arr[n/2];   // Return middle element
+}

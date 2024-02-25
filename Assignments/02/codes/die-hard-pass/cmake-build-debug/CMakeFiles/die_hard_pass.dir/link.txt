@@ -1,0 +1,3 @@
+"D:\IDE\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\die_hard_pass.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\die_hard_pass.dir/objects.a @CMakeFiles\die_hard_pass.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\die_hard_pass.dir/objects.a -Wl,--no-whole-archive -o die_hard_pass.exe -Wl,--out-implib,libdie_hard_pass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\die_hard_pass.dir\linklibs.rsp

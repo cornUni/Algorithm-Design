@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/University/Semester-5/Algorithm Design/Assignments/02/codes/die-hard-pass/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+algorithm
+-
+
